@@ -1,4 +1,4 @@
-# Portafolio-Fundamentos-Programacion
+# Portafolio-Fundamentos-Programación
 
 ## Integrantes
 - Rony Morales
