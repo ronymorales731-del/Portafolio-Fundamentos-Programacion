@@ -1,2 +1,8 @@
 # Portafolio-Fundamentos-Programacion
-Portafolio de la materia Fundamentos de la Programación Ciclo 1
+
+## Integrantes
+- Rony Morales
+- Nombre de tu compañera
+
+## Descripción
+Este repositorio contiene los trabajos realizados en la materia.
