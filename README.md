@@ -2,7 +2,7 @@
 
 ## Integrantes
 - Rony Morales
-- Nombre de tu compañera
+- Fatima Medina
 
 ## Descripción
 Este repositorio contiene los trabajos realizados en la materia.
